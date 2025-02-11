@@ -4,7 +4,7 @@ collection: publications
 category: Edge-Cloud-Synergy-AI
 permalink: /publication/2024-08-05-Tackling-Multiplayer-Interaction-for-Federated-Generative-Adversarial-Networks
 excerpt: 'We propose Oasis, a multiplayer-oriented federated GAN training system that addresses the issues of vanishing gradient and mode collapse.'
-date: 2015-08-05
+date: 2024-08-05
 venue: 'IEEE Transactions on Mobile Computing'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10623396'
