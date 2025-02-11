@@ -8,6 +8,7 @@ date: 2024-05-06
 venue: 'IEEE Internet of Things Journal'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10521590'
+projecturl: 'https://github.com/kubeedge/ianvs/tree/main/examples/cityscapes/lifelong_learning_bench/unseen_task_processing-GANwithSelfTaughtLearning'
 citation: '<b>Tianyu Tu</b>, Zhili He, Zhigao Zheng, Zimu Zheng, Jiawei Jiang, Yili Gong, Chuang Hu, Dazhao Cheng (06 May 2024). Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT. IEEE Internet of Things Journal.'
 ---
 
