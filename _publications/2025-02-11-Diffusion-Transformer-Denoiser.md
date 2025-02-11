@@ -13,4 +13,4 @@ projecturl: 'https://github.com/nailtu30/DiT-Denoiser'
 ---
 We use Diffusion Transformer (DiT) to denoise Monte Carlo Rendered Images.     
 
-![](./figures/DiT.png "Diffusion Transformer (DiT)")
+![](/images/publications/DiT.png "Diffusion Transformer (DiT)")
