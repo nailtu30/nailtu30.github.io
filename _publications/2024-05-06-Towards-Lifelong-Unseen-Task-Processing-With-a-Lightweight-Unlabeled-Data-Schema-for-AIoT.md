@@ -3,7 +3,7 @@ title: "Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Dat
 collection: publications
 category: Edge-Cloud-Synergy-AI
 permalink: /publication/2024-05-06-Towards-Lifelong-Unseen-Task-Processing-With-a-Lightweight-Unlabeled-Data-Schema-for-AIoT
-excerpt: 'A edge-cloud synergy AI framework that tackles unseen tasks'
+excerpt: 'A edge-cloud synergy AI framework addressing unseen tasks encountered by edge devices. [Project Link](https://github.com/kubeedge/ianvs/tree/main/examples/cityscapes/lifelong_learning_bench/unseen_task_processing-GANwithSelfTaughtLearning)'
 date: 2024-05-06
 venue: 'IEEE Internet of Things Journal'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
