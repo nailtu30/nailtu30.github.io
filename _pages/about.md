@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I am Tianyu Tu (屠天宇)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi, I am Tianyu Tu (屠天宇)
+I am currently a third-year master's student in Computer Science and Technology at the School of Computer Science, Wuhan University, under the supervision of [Chuang Hu](https://cs.whu.edu.cn/info/1019/2480.htm) and [Dazhao Cheng](https://cs.whu.edu.cn/info/1019/2504.htm). I obtained my bachelor's degree in Software Engineering from the same school. My research interests include efficient AI and edge AI.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
