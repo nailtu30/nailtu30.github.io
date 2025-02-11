@@ -22,7 +22,7 @@ repository               : "nailtu30/nailtu30.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "icon.jpg"
   name             : "Tianyu Tu"
   pronouns         : # example: "she/her"  
   bio              : "School of Computer Science, Wuhan University.<br>Email: meetnailtu30@gmail.com"
