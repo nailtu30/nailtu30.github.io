@@ -54,8 +54,8 @@
     
     {% if post.citation and post.paperurl and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif page.citation and page.paperurl and page.projecturl %}
-      <p>{{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.projecturl }}">Project Link</a></p>
+    {% elsif post.citation and post.paperurl and post.projecturl %}
+      <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.projecturl }}">Project Link</a></p>
     {% elsif post.citation and post.paperurl %}
       <!-- <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p> -->
       <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
