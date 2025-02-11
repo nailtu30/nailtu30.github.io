@@ -14,4 +14,9 @@ I am currently a third-year master's student in Computer Science and Technology 
 
 1. [Aug/2024] Our paper titled ["Federated Spectrum Management Through Hedonic Coalition Formation"](https://dl.acm.org/doi/abs/10.1145/3663408.3665823) is accepted by Proceedings of the 8th Asia-Pacific Workshop on Networking.
 
-1. [May/2024] Our paper titled ["Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT"](https://ieeexplore.ieee.org/abstract/document/10521590) is accepted by IEEE Internet of Things Journal.
+1. [May/2024] Our paper titled ["Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT"](https://ieeexplore.ieee.org/abstract/document/10521590) is accepted by IEEE Internet of Things Journal.   
+
+
+---
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ji4d0WxFKWHECTXPygePQxrFtDzaD_ETH3TDTm2YiqU&cl=ffffff&w=a"></script>
