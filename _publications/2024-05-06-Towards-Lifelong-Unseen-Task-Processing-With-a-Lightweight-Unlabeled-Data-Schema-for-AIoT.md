@@ -1,7 +1,7 @@
 ---
 title: "Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT"
 collection: publications
-category: Edge-Cloud Synergy AI
+category: Edge-Cloud-Synergy-AI
 permalink: /publication/2024-05-06-Towards-Lifelong-Unseen-Task-Processing-With-a-Lightweight-Unlabeled-Data-Schema-for-AIoT
 excerpt: 'A edge-cloud synergy AI framework that tackles unseen tasks'
 date: 2024-05-06
